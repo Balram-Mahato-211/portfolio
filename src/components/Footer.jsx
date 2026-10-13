@@ -12,7 +12,7 @@ export default function Footer() {
           <span>{profile.name}</span>
         </a>
         <p>
-          &copy; {new Date().getFullYear()} {profile.name}. Built with React and Vite.
+          &copy; {new Date().getFullYear()} {profile.name}. Built with React.
         </p>
         <div className="socials socials--small">
           <a href={profile.github} target="_blank" rel="noreferrer" aria-label="GitHub">

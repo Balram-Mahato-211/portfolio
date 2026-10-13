@@ -49,7 +49,7 @@ export const skills = [
   {
     group: "Frontend development",
     icon: "layout",
-    items: ["HTML", "CSS", "React.js", "Next.js", "Vite"],
+    items: ["HTML", "CSS", "React.js"],
   },
   {
     group: "Backend development",
@@ -84,7 +84,7 @@ export const projects = [
     subtitle: "Contact management frontend",
     description:
       "A React-based frontend project for a contact management application.",
-    tech: ["React", "Vite", "JavaScript", "CSS"],
+    tech: ["React", "JavaScript", "CSS"],
     github: "https://github.com/Balram-Mahato-211/Contact-App",
   },
   {
