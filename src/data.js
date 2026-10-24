@@ -12,9 +12,9 @@ export const profile = {
     "full-stack builder",
   ],
   intro:
-    "I build web applications with React on the front end and Node.js, Express and MongoDB on the back end. I am looking for software developer internships and placement opportunities.",
+    "I build web applications with React on the frontend and Node.js, Express and MongoDB on the backend. I am looking for software developer internships and placement opportunities.",
   about: [
-    "I am a third-year B.Tech Computer Science and Engineering student at Ramgarh Engineering College, Jharkhand. I learn by building: my projects cover React front ends, Node.js and Express back ends, and a document management system for legal and investigation records.",
+    "I am a third-year B.Tech Computer Science and Engineering student at Ramgarh Engineering College, Jharkhand. I learn by building: my projects cover React frontends, Node.js and Express backends, and a document management system for legal and investigation records.",
     "I work with Git and GitHub for every project and have deployed projects on Vercel and Render. I am comfortable in C, C++ and Java, and I am now focused on full-stack web development.",
   ],
   email: "balramegrks@gmail.com",
